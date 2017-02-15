@@ -1,0 +1,5 @@
+d:\Calculator\Calculator\bin\Debug\Calculator.dll
+d:\Calculator\Calculator\bin\Debug\Calculator.pdb
+d:\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+d:\Calculator\Calculator\obj\Debug\Calculator.dll
+d:\Calculator\Calculator\obj\Debug\Calculator.pdb
