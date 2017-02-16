@@ -1,0 +1,10 @@
+d:\Calculator\CalculatorTest\bin\Debug\CalculatorTest.exe.config
+d:\Calculator\CalculatorTest\bin\Debug\CalculatorTest.exe
+d:\Calculator\CalculatorTest\bin\Debug\CalculatorTest.pdb
+d:\Calculator\CalculatorTest\bin\Debug\Calculator.dll
+d:\Calculator\CalculatorTest\bin\Debug\nunit.framework.dll
+d:\Calculator\CalculatorTest\bin\Debug\Calculator.pdb
+d:\Calculator\CalculatorTest\bin\Debug\nunit.framework.xml
+d:\Calculator\CalculatorTest\obj\Debug\CalculatorTest.csprojResolveAssemblyReference.cache
+d:\Calculator\CalculatorTest\obj\Debug\CalculatorTest.exe
+d:\Calculator\CalculatorTest\obj\Debug\CalculatorTest.pdb
