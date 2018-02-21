@@ -1,9 +1,10 @@
 pipeline {
   agent any
   stages {
-    stage('') {
+    stage('initialise') {
       steps {
         build 'calculator.sln'
+        echo 'hello'
       }
     }
   }
